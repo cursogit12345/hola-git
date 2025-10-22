@@ -1,9 +1,3 @@
-Primera versión del archivo
-Segunda línea agregada
-Tercera línea desde rama-notas
-Nueva línea para probar merge
-<<<<<<< HEAD
-Linea distinta desde rama-B
-=======
-Linea desde rama-A
->>>>>>> rama-A
+Línea escrita desde main
+Línea escrita desde rama-conflicto
+
