@@ -1,3 +1,4 @@
 Línea escrita desde main
 Línea escrita desde rama-conflicto
 
+Esta es la versión 2 del documento (rama-version2)
