@@ -1,2 +1,1 @@
-Primera versión del archivo
-Segunda línea agregada
+Esta es la versión 2 del documento (rama-version2)
